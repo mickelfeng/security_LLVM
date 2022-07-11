@@ -4,5 +4,5 @@ cmake -G "Unix Makefiles" -DLLVM_ENABLE_PROJECTS="clang" -DCMAKE_BUILD_TYPE=Rele
 
 make 
 
-make install
+sudo make install
 
